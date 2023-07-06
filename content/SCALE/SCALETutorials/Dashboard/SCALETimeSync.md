@@ -1,3 +1,5 @@
+## Explain what to do if the sync button does not appear. What if the discrepancy is less than 30 days, but a discrepancy is not recongnized by the system.  On the Dashboard, list what time the system thinks it is so I can determine for myself if the time is correct or not.  In this documentation page, please explain how I can determine the system time and sync it with something.  Explain how to setup NTP Servers.
+
 ---
 title: "Synchronizing System and SCALE Time"
 description: "Provides instructions on synchronizing the system server and TrueNAS SCALE time when both are out of alignment with each other."
